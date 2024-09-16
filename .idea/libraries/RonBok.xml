@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RonBok">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RonBok.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
